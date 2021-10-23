@@ -82,7 +82,7 @@ def Wavefunction( obj , *args, **kwargs):
 				wavefunction = wavefunction + '\n'
 		#print(NL)
 	
-	#print(wavefunction)
+	print(wavefunction)
 	return wavefunction
 
 
